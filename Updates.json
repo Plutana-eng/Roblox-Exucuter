@@ -1,1 +1,16 @@
-
+[
+  {
+    "Version": "1.4",
+    "Description": "Bug fixes",
+    "DownloadUrl": "https://cdn.discordapp.com/attachments/1410321034292498492/1410654310693601431/Roblox_Exucuter_V1.4.rar?ex=68b1cdb4&is=68b07c34&hm=490036bdc90d9aae9fa4eba7a5a77620e5a32e01982c995d67d184b10ce8b7ac&",
+    "ReleaseDate": "2025-08-28",
+    "Mandatory": false
+  },
+  {
+    "Version": "1.5",
+    "Description": "Auto Updates",
+    "DownloadUrl": "https://example.com/updates/update_1.3.0.0.zip",
+    "ReleaseDate": "2025-08-28",
+    "Mandatory": true
+  }
+]
