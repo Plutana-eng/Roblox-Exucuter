@@ -22,5 +22,13 @@
     "ReleaseDate": "2025-08-29",
     "Mandatory": false,
     "Old": true
+  },
+  {
+    "Version": "1.7",
+    "Description": "Added Update Menu And More",
+    "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.7_20250830015130.zip",
+    "ReleaseDate": "2025-08-30",
+    "Mandatory": false,
+    "Old": false
   }
 ]
