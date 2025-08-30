@@ -4,20 +4,31 @@
     "Description": "Bug fixes",
     "DownloadUrl": "https://cdn.discordapp.com/attachments/1410321034292498492/1410654310693601431/Roblox_Exucuter_V1.4.rar?ex=68b1cdb4&is=68b07c34&hm=490036bdc90d9aae9fa4eba7a5a77620e5a32e01982c995d67d184b10ce8b7ac&",
     "ReleaseDate": "2025-08-28",
-    "Mandatory": false
+    "Mandatory": false,
+    "Old": false
   },
   {
     "Version": "1.5",
     "Description": "Auto Updates",
     "DownloadUrl": "https://cdn.discordapp.com/attachments/1410321034292498492/1410750232479797319/Roblox_Exucuter_V1.5.zip?ex=68b22709&is=68b0d589&hm=06ee421a744e7353105d36f2874a74b3d08ef6e532c4bd760a3a4e1f8c0b1388&",
     "ReleaseDate": "2025-08-28",
-    "Mandatory": false
+    "Mandatory": false,
+    "Old": false
   },
   {
     "Version": "1.6",
     "Description": "Update To Fix Things",
     "DownloadUrl": "https://cdn.discordapp.com/attachments/1410321034292498492/1411135199265161277/Roblox_Exucuter_V1.6.zip?ex=68b38d91&is=68b23c11&hm=1adc4cb9420b6d56dc7fb2862617bf1cb7e2118e96420b6900a85f7fc8593662&",
     "ReleaseDate": "2025-08-29",
-    "Mandatory": true
+    "Mandatory": true,
+    "Old": false
+  },
+  {
+    "Version": "1.7",
+    "Description": "Added Update Menu And More",
+    "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.7_20250830013821.zip",
+    "ReleaseDate": "2025-08-30",
+    "Mandatory": true,
+    "Old": true
   }
 ]
