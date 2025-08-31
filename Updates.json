@@ -61,6 +61,14 @@
     "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.7_20250830015130.zip",
     "ReleaseDate": "2025-08-30",
     "Mandatory": false,
+    "Old": true
+  },
+  {
+    "Version": "1.8",
+    "Description": "Added A Cooler Inject Button and color thing and moved the menu around",
+    "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.8_20250831233338.zip",
+    "ReleaseDate": "2025-08-31",
+    "Mandatory": false,
     "Old": false
   }
 ]
