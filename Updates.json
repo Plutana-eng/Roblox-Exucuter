@@ -1,13 +1,13 @@
 [
-    {
+  {
     "Version": "1.0",
     "Description": "Bug fixes",
     "DownloadUrl": "https://github.com/Plutana-eng/Roblox-Exucuter/raw/refs/heads/main/updates/Roblox%20Exucuter%20V1.0.zip",
     "ReleaseDate": "2025-08-25",
     "Mandatory": false,
     "Old": true
-    },
-    {
+  },
+  {
     "Version": "1.1",
     "Description": "Bug fixes",
     "DownloadUrl": "https://github.com/Plutana-eng/Roblox-Exucuter/raw/refs/heads/main/updates/Roblox%20Exucuter%20V1.1.zip",
@@ -15,7 +15,7 @@
     "Mandatory": false,
     "Old": true
   },
-    {
+  {
     "Version": "1.2",
     "Description": "Bug fixes",
     "DownloadUrl": "https://github.com/Plutana-eng/Roblox-Exucuter/raw/refs/heads/main/updates/Roblox%20Exucuter%20V1.2.zip",
@@ -23,7 +23,7 @@
     "Mandatory": false,
     "Old": true
   },
-    {
+  {
     "Version": "1.3",
     "Description": "Bug fixes",
     "DownloadUrl": "https://github.com/Plutana-eng/Roblox-Exucuter/raw/refs/heads/main/updates/Roblox%20Exucuter%20V1.3.zip",
@@ -60,6 +60,14 @@
     "Description": "Added Update Menu And More",
     "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.7_20250830015130.zip",
     "ReleaseDate": "2025-08-30",
+    "Mandatory": false,
+    "Old": true
+  },
+  {
+    "Version": "1.8",
+    "Description": "Added A Cooler Inject Button, Thats It",
+    "DownloadUrl": "https://raw.githubusercontent.com/Plutana-eng/Roblox-Exucuter/main/updates/update_v1.8_20250831231434.zip",
+    "ReleaseDate": "2025-08-31",
     "Mandatory": false,
     "Old": false
   }
